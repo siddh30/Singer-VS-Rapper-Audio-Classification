@@ -4,7 +4,7 @@ Classify if the artist is the artist is a singer or rapper based on their music 
 
 ## Approach
 Applied a Tensorflow Sequential Model (ANN) to classify audio features extracted by Mel Frequency Cepestral Coefficents (MFCC)
-<img src = "https://github.com/siddh30/Singer-VS-Rapper-Audio-Classification/blob/main/model.png" height = "1000">
+<img src = "https://github.com/siddh30/Singer-VS-Rapper-Audio-Classification/blob/main/model.png" height = "500">
 
 
 ## Dataset (Kaggle)
